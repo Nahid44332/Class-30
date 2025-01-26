@@ -1,0 +1,28 @@
+
+Way of witting Js.......
+
+1.inline
+2.Internal
+3.External
+
+
+
+1. Variable
+2. Data Type
+
+
+Way of Declaring Variable in js....
+
+1. General Way
+2. Using Let
+3. Using Var
+4. Using Const
+
+
+Way of Declaring Data Type in js....
+
+1. String (Normal Word, Sentance)
+2. Integer (Number) => 0,1,2,3,4,5,6,7,8,9
+3. Flout (Number) => 12.3 , 56.6, 69.9
+4. Double (Number) => 62.54, 98.97, 48.87
+5. Boolean (True/False)
